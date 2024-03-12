@@ -2,7 +2,7 @@ name: "wedding-website"
 title: "Alex & Chris"
 description: |
   Alex & Chris' Wedding Website
-output_dir: "_site"
+output_dir: "docs"
 base_url: https://cgrdn.github.io/alexandchris
 navbar:
   right:
