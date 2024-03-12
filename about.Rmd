@@ -4,6 +4,9 @@ description: |
   Where and when. 
 ---
 
+- St. Thomas Aquinas
+- St. Mary's Boat Club
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
