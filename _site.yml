@@ -1,0 +1,15 @@
+name: "wedding-website"
+title: "Alex & Chris"
+description: |
+  Alex & Chris' Wedding Website
+output_dir: "docs"
+base_url: https://cgrdn.github.io/alexandchris
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output:
+  distill::distill_article:
+    css: styles.css
