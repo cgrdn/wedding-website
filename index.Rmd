@@ -12,6 +12,8 @@ library(leaflet)
 
 # Favourite Places & Important Locations
 
+Map of our favourite places.
+
 ```{r map, include=TRUE, results=TRUE}
 df <- read.csv("fav_places.csv")
 
