@@ -1,8 +1,9 @@
 name: "wedding-website"
 title: "Alex & Chris"
 description: |
-  Alex & Chris
+  Alex & Chris' Wedding Website
 output_dir: "_site"
+base_url: https://alexandchris.github.io
 navbar:
   right:
     - text: "Home"
