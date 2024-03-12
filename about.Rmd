@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: "Wedding, Reception, and Other Events"
 description: |
-  Some additional details about the website
+  Where and when. 
 ---
 
 ```{r setup, include=FALSE}
