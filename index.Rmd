@@ -8,6 +8,7 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
+library(fontawesome)
 ```
 
 # Favourite Places & Important Locations
@@ -18,32 +19,32 @@ Map of our favourite places.
 df <- read.csv("fav_places.csv")
 
 logos <- awesomeIconList(
-  "bar" = makeAwesomeIcon(
+  bar = makeAwesomeIcon(
     icon = "beer-mug-empty",
     markerColor = "blue",
     library = "fa"
   ),
-  "restaurant" = makeAwesomeIcon(
-    icon = "utensils",
-    markerColor = "blue",
-    library = "fa"
+  restaurant = makeAwesomeIcon(
+    text = fa("utensils"),
+    iconColor="black",
+    markerColor = "blue"
   ),
-  "church" = makeAwesomeIcon(
+  church = makeAwesomeIcon(
     icon = "church",
     markerColor = "red",
     library = "fa"
   ),
-  "reception" = makeAwesomeIcon(
+  reception = makeAwesomeIcon(
     icon = "heart",
     markerColor = "red",
     library = "fa"
   ),
-  "home" = makeAwesomeIcon(
+  home = makeAwesomeIcon(
     icon = "house",
     markerColor = "green",
     library = "fa"
   ),
-  "coffee" = makeAwesomeIcon(
+  coffee = makeAwesomeIcon(
     icon = "mug-saucer",
     markerColor = "orange",
     library = "fa"
@@ -56,7 +57,7 @@ m <- leaflet() %>%
   addAwesomeMarkers(
     data = df,
     lat = ~lat, lng = ~lng,
-    icon = logos[df$Type],
+    icon = ~logos[df$Type],
     popup = paste0(
       df$Name, "<br/>", df$Address, "<br/>Description: ", df$Description
     )
