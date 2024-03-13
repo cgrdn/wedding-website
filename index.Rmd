@@ -69,3 +69,5 @@ m <- leaflet() %>%
   )
 m
 ```
+
+![image alt <](images/DSCF3681.jpg){width=49%} ![image alt >](images/DSCF3948.jpg){width=49%} 
