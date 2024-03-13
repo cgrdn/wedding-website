@@ -19,12 +19,17 @@ df <- read.csv("fav_places.csv")
 
 logos <- awesomeIconList(
   "bar" = makeAwesomeIcon(
-    icon = "martini-glass",
+    icon = "beer-mug-empty",
+    markerColor = "blue",
+    library = "fa"
+  ),
+  "restaurant" = makeAwesomeIcon(
+    icon = "utensils",
     markerColor = "blue",
     library = "fa"
   ),
   "important" = makeAwesomeIcon(
-    icon = "circle-exclamation",
+    icon = "star",
     markerColor = "red",
     library = "fa"
   ),
