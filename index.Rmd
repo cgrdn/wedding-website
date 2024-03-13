@@ -45,15 +45,15 @@ logos <- awesomeIconList(
   )
 )
 
-m <- leaflet() %>% 
+m <- leaflet() %>%
   addProviderTiles(providers$CartoDB.Positron) %>%
-  setView(lat=44.65065108508493, lng=-63.593375588138834, zoom=13) %>%
+  setView(lat = 44.65065108508493, lng = -63.593375588138834, zoom = 13) %>%
   addAwesomeMarkers(
     data = df,
     lat = ~lat, lng = ~lng,
     icon = logos[df$Type],
     popup = paste0(
-      df$Name, "<br/>", df$Address, "<br/>Description: ", df$Description 
+      df$Name, "<br/>", df$Address, "<br/>Description: ", df$Description
     )
   )
 m
