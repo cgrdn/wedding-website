@@ -28,8 +28,13 @@ logos <- awesomeIconList(
     markerColor = "blue",
     library = "fa"
   ),
-  "important" = makeAwesomeIcon(
-    icon = "star",
+  "church" = makeAwesomeIcon(
+    icon = "church",
+    markerColor = "red",
+    library = "fa"
+  ),
+  "reception" = makeAwesomeIcon(
+    icon = "heart",
     markerColor = "red",
     library = "fa"
   ),
