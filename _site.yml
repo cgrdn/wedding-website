@@ -3,7 +3,7 @@ title: "Alex & Chris"
 description: |
   Alex & Chris' Wedding Website
 output_dir: "docs"
-base_url: https://cgrdn.github.io/alexandchris
+base_url: https://cgrdn.github.io/wedding-website
 navbar:
   right:
     - text: "Home"

@@ -8,44 +8,49 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
-library(fontawesome)
 ```
 
 # Favourite Places & Important Locations
 
-Map of our favourite places.
+Key locations and our personal recommendations for Halifax!
 
-```{r map, include=TRUE, results=TRUE}
+```{r map, layout="l-screen"}
 df <- read.csv("fav_places.csv")
 
 logos <- awesomeIconList(
   bar = makeAwesomeIcon(
     icon = "beer-mug-empty",
+    iconColor = "black",
     markerColor = "blue",
     library = "fa"
   ),
   restaurant = makeAwesomeIcon(
-    text = fa("utensils"),
-    iconColor="black",
-    markerColor = "blue"
+    icon = "martini-glass-citrus",
+    iconColor = "black",
+    markerColor = "blue",
+    library = "fa"
   ),
   church = makeAwesomeIcon(
     icon = "church",
+    iconColor = "black",
     markerColor = "red",
     library = "fa"
   ),
   reception = makeAwesomeIcon(
     icon = "heart",
+    iconColor = "black",
     markerColor = "red",
     library = "fa"
   ),
   home = makeAwesomeIcon(
     icon = "house",
+    iconColor = "black",
     markerColor = "green",
     library = "fa"
   ),
   coffee = makeAwesomeIcon(
     icon = "mug-saucer",
+    iconColor = "black",
     markerColor = "orange",
     library = "fa"
   )
