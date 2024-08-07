@@ -1,20 +1,19 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "Wedding, Reception, and Other Events",
-      "description": "Where and when. ",
-      "author": [],
-      "contents": "\nSt. Thomas Aquinas\nSt. Mary’s Boat Club\n\n\n\n",
-      "last_modified": "2024-03-13T19:49:54+00:00"
-    },
-    {
       "path": "index.html",
       "title": "Alex & Chris",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Everything you need to know for September 27, 2025!\n",
       "author": [],
-      "contents": "\nFavourite Places & Important Locations\nKey locations and our personal recommendations for Halifax!\n\n\n\n\n\n\n\n",
-      "last_modified": "2024-03-13T19:49:56+00:00"
+      "contents": "\n\nSchedule\n1430: Ceremony\nSt. Thomas Aquinas Catholic Church1725 Oxford St.\nbreak\n1630: Cocktail Hour\nSt. Mary’s Boat Club1641 Fairfield Road\n1800: Reception\nSt. Mary’s Boat Club1641 Fairfield Road\n\nFavourite Places & Important Locations\nKey locations and our personal recommendations for Halifax!\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2024-08-07T04:14:30+00:00"
+    },
+    {
+      "path": "rsvp.html",
+      "title": "RSVP Here!",
+      "author": [],
+      "contents": "\n\nLoading…\n\n\n\n\n",
+      "last_modified": "2024-08-07T04:14:31+00:00"
     }
   ],
   "collections": []
