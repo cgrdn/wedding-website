@@ -1,7 +1,7 @@
 ---
 title: "Alex & Chris"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Everything you need to know for September 27, 2025!
 site: distill::distill_website
 ---
 
@@ -9,6 +9,26 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
+
+![image alt <](images/EDF09105-27BB-46FD-90E1-003053D02E4A-8993-000004C46F8BF18B.JPEG){width=49%} ![image alt >](images/IMG_1749.JPEG){width=49%}\
+
+# Schedule
+
+__1430__: *Ceremony*\
+St. Thomas Aquinas Catholic Church\
+*1725 Oxford St.*
+
+*break*
+
+__1630__: *Cocktail Hour*\
+St. Mary's Boat Club\
+*1641 Fairfield Road*
+
+__1800__: *Reception*\
+St. Mary's Boat Club\
+*1641 Fairfield Road*
+
+![image alt <](images/C3D6A66F-C6F8-47A7-A3FA-B95E9335E76F-73056-000052F361037A9D.JPEG){width=49%} ![image alt >](images/IMG_2002.JPEG){width=49%}\
 
 # Favourite Places & Important Locations
 
@@ -69,5 +89,8 @@ m <- leaflet() %>%
   )
 m
 ```
+
+
+![image alt <](images/IMG_0146.JPEG){width=49%} ![image alt >](images/IMG_2009.JPEG){width=49%}\
 
 ![image alt <](images/DSCF3681.jpg){width=49%} ![image alt >](images/DSCF3948.jpg){width=49%} 
