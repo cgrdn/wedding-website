@@ -2,6 +2,9 @@
 title: "RSVP Here!"
 ---
 
+
+*__Important: No kids__. Please note that although we would love to host your entire family, we unfortunately will not be able to accommodate children at the wedding. Thank you!*
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSel79xWcDO5YOlVMupAdqvFgRlgnFX-JUTOifip27lHaejDSQ/viewform?embedded=true" width="640" height="943" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ```{r setup, include=FALSE}
