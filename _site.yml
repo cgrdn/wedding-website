@@ -5,6 +5,9 @@ description: |
 output_dir: "docs"
 base_url: https://cgrdn.github.io/wedding-website
 navbar:
+  logo:
+    image: images/sunny.png
+    href: https://cgrdn.github.io/wedding-website
   right:
     - text: "Home"
       href: index.html
