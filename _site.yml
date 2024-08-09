@@ -4,6 +4,7 @@ description: |
   Alexandra & Christopher's Wedding Website
 output_dir: "docs"
 base_url: https://cgrdn.github.io/wedding-website
+favicon: images/sunny.png
 navbar:
   logo:
     image: images/sunny.png
