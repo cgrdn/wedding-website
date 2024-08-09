@@ -10,9 +10,11 @@ knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
 
-![image alt <](images/EDF09105-27BB-46FD-90E1-003053D02E4A-8993-000004C46F8BF18B.JPEG){width=49%} ![image alt >](images/IMG_1749.JPEG){width=49%}\
+Jump to: &emsp; [Schedule](#Schedule) &emsp; [Accommodation](#Accommodation) &emsp; [Locations](#Locations)
 
-# Schedule
+![image alt <](images/EDF09105-27BB-46FD-90E1-003053D02E4A-8993-000004C46F8BF18B.JPEG){width=49%} ![image alt >](images/IMG_1749.JPEG){width=49%}
+
+# Schedule {#Schedule}
 
 __1400__: *Ceremony*\
 St. Thomas Aquinas Catholic Church\
@@ -30,11 +32,17 @@ St. Mary's Boat Club\
 
 ![image alt <](images/C3D6A66F-C6F8-47A7-A3FA-B95E9335E76F-73056-000052F361037A9D.JPEG){width=49%} ![image alt >](images/IMG_2002.JPEG){width=49%}\
 
-# Favourite Places & Important Locations
+# Accommodation {#Accommodation}
+
+More info to come - we will be getting rates for blocks of rooms from the following hotels in the new year: 
+
+* [The Lord Nelson](https://lordnelsonhotel.ca/) (1515 South Park St.)
+* [Sutton Place](https://www.suttonplace.com/halifax) (1700 Grafton St.)
+* [Courtyard Marriot](https://www.marriott.com/en-us/hotels/yhzcy-courtyard-halifax-downtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) (5120 Salter St.)
+
+# Favourite Places & Important Locations {#Locations}
 
 _Key locations and our personal recommendations for Halifax!_ Add this as a list in [Google Maps](https://maps.app.goo.gl/riA8Z72gBKDnbhJFA) or as a guide in [Apple Maps](https://guides.apple.com/?ug=CgxBbGV4ICYgQ2hyaXMSDQiuTRC6%2Br6vt5jPt3cSDQiuTRCW0%2BihhNzD5xoSDgiuTRC%2B%2BsjQw6mesqgBEg4Irk0Q5K6XtumEoq%2BrARIOCK5NELndnr2Uwoy40QESDQiuTRD%2Bl%2Fnzivf1lTcSDgiuTRCUpPDnnLnDg5IBEg4Irk0Q882q2d225drbARIOCK5NEJjH6%2FD55LGXxAESDgiuTRCBpIH3%2Be2ho7EBEg4Irk0QwP3z75bfioW%2BARINCK5NEOOn%2BI%2Bb7pKjYxIMCK5NEMmxysees9sREg4Irk0QuOur%2BYG%2FwY7DARIOCK5NEN6K94GAtIH%2B%2BQE%3D).
-
-
 
 ```{r map, layout="l-screen"}
 df <- read.csv("fav_places.csv")
