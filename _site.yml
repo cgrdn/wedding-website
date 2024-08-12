@@ -3,12 +3,12 @@ title: "Alex & Chris"
 description: |
   Alexandra & Christopher's Wedding Website
 output_dir: "docs"
-base_url: https://cgrdn.github.io/wedding-website
+base_url: https://cgrdn.github.io
 favicon: images/sunny.png
 navbar:
   logo:
     image: images/sunny.png
-    href: https://cgrdn.github.io/wedding-website
+    href: https://cgrdn.github.io
   right:
     - text: "Home"
       href: index.html
