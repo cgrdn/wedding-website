@@ -1,0 +1,9 @@
+---
+title: "Frequently Asked Questions"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Are children allowed at the wedding?
