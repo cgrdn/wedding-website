@@ -1,6 +1,6 @@
 lat,lng,Address,Name,Type,Description
 44.64287791979992,-63.579628136356995,1515 South Park St.,The Lord Nelson,hotel,Closest to ceremony/reception
-44.646799733193184,-63.57102387417048,5120 Salter St.,Courtyard Marriott,hotel,Downtown option
+44.64517702354887,-63.57534979794344,1583 Brunswick St.,Cambridge Suites,hotel,Downtown/Spring Garden option
 44.64728824664096,-63.57600205357326,1700 Grafton St.,Sutton Place Hotel,hotel,Fancy option
 44.65475447548979,-63.5926181458097,2534 Agricola St.,The Stillwell Freehouse,bar,Great pub we visit very often :) get a scotch egg
 44.64158904480445,-63.598241203481514,1725 Oxford St,St. Thomas Aquinas,church,The church
@@ -10,7 +10,10 @@ lat,lng,Address,Name,Type,Description
 44.657659330376326,-63.596144272796344,2733 Agricola St.,Bar Kismet,restaurant,Small plates 10/10 vibe
 44.66244511170415,-63.59935380348031,5529 Young St.,The Ostrich Club,restaurant,Excellent food excellent cocktails
 44.651600857529644,-63.58282506115206,2076 Gottingen St.,Field Guide,restaurant,Get a mushroom bau (and everything else)
-44.64305905553791,-63.57937042690902,5688 Spring Garden Rd.,Stillwell Beergarden,bar,Summer staple
+44.642287577557994,-63.579490456036616,5688 Spring Garden Rd.,Stillwell Beergarden,bar,Summer staple
+44.64204804948378,-63.5794307128852,5688 Spring Garden Rd.,Dairy Bar,icecream,Soft serve right next to beer garden
 44.64751687569148,-63.57439224722004,1672 Barrington St.,Stillwell,bar,D I N E R B U R G E R
 44.65919430645684,-63.593604400471584,2720 Gottingen St.,The Narrows,bar,Gorgeous traditional pub in a Nova Scotia heritage property
 44.64672176492209,-63.573965219912665,1656 Barrington St.,Weird Harbour,coffee,Best coffee on the Halifax side IMO
+44.653726017072145,-63.608662729059006,2983 Oxford St.,2 Crows Oxford Taproom + Yeah Yeahs Pizza,pizza,Good beer great pizza
+44.64432073456305,-63.60073741698843,6418 Quinpool Rd.,The Oxford Taproom,bar,Dog friendly taproom with great back patio
