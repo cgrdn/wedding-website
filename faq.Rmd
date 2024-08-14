@@ -7,3 +7,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Are children allowed at the wedding?
+
+# What is the dress code?
+
+# What do I do between the ceremony and cocktail hour?

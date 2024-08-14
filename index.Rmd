@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
 
-Jump to: &emsp; [Schedule](#Schedule) &emsp; [Accommodation](#Accommodation) &emsp; [Locations](#Locations)
+Jump to: &emsp; [RSVP!](cgrdn.github.io/rsvp.html) &emsp; [Schedule](#Schedule) &emsp; [Accommodation](#Accommodation) &emsp; [Locations](#Locations)
 
 ![image alt <](images/EDF09105-27BB-46FD-90E1-003053D02E4A-8993-000004C46F8BF18B.JPEG){width=49%} ![image alt >](images/IMG_1749.JPEG){width=49%}
 
@@ -38,7 +38,7 @@ More info to come - we will be getting rates for blocks of rooms from the follow
 
 * [The Lord Nelson](https://lordnelsonhotel.ca/) (1515 South Park St.)
 * [Sutton Place](https://www.suttonplace.com/halifax) (1700 Grafton St.)
-* [Courtyard Marriot](https://www.marriott.com/en-us/hotels/yhzcy-courtyard-halifax-downtown/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) (5120 Salter St.)
+* [Cambridge Suites](http://www.cambridgesuiteshalifax.com/) (1583 Brunswick St.)
 
 # Favourite Places & Important Locations {#Locations}
 
@@ -56,6 +56,18 @@ logos <- awesomeIconList(
   ),
   restaurant = makeAwesomeIcon(
     icon = "martini-glass-citrus",
+    iconColor = "black",
+    markerColor = "blue",
+    library = "fa"
+  ),
+  icecream = makeAwesomeIcon(
+    icon = "ice-cream",
+    iconColor = "black",
+    markerColor = "blue",
+    library = "fa"
+  ),
+  pizza = makeAwesomeIcon(
+    icon = "pizza-slice",
     iconColor = "black",
     markerColor = "blue",
     library = "fa"
