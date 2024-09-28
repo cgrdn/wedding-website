@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 library(leaflet)
 ```
 
-Jump to: &emsp; [RSVP!](rsvp.html) &emsp; [Schedule](#Schedule) &emsp; [Accommodation](#Accommodation) &emsp; [Locations](#Locations)
+Jump to: &emsp; [RSVP!](rsvp.html) &emsp; [Schedule](#Schedule) &emsp; [Accommodation](#Accommodation) &emsp; [Locations](#Locations) &emsp; [FAQ](faq.html)
 
 ![image alt <](images/EDF09105-27BB-46FD-90E1-003053D02E4A-8993-000004C46F8BF18B.JPEG){width=49%} ![image alt >](images/IMG_1749.JPEG){width=49%}
 

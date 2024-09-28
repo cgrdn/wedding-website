@@ -8,7 +8,7 @@ favicon: images/sunny.png
 navbar:
   logo:
     image: images/sunny.png
-    href: https://cgrdn.github.io
+    href: https://chrisandalex.ca
   right:
     - text: "Home"
       href: index.html
