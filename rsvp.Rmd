@@ -10,4 +10,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Note: Our RSVP is a pretty simple form - if you're responding for more just yourself just write multiple names in the "Name(s)" field!
 
+Please RSVP as soon as possible! We will email you closer to the wedding date for meal choices!
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSel79xWcDO5YOlVMupAdqvFgRlgnFX-JUTOifip27lHaejDSQ/viewform?embedded=true" width="640" height="943" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
