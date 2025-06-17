@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 *__Important: No children__. Please note that although we would love to host your entire family, we unfortunately will not be able to accommodate children at the wedding. Thank you!*
 
-Note: Our RSVP is a pretty simple form - if you're responding for more just yourself just write multiple names in the "Name(s)" field!
+Note: Our RSVP is a pretty simple form - if you're responding for more than just yourself just write multiple names in the "Name(s)" field!
 
 Please RSVP as soon as possible! We will email you closer to the wedding date for meal choices!
 

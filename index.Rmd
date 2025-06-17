@@ -51,7 +51,7 @@ We have a group rate of $219/night at the [Cambridge Suites](https://reservation
 
 # Favourite Places & Important Locations {#Locations}
 
-_Key locations and our personal recommendations for Halifax!_ Add this as a list in [Google Maps](https://maps.app.goo.gl/riA8Z72gBKDnbhJFA) or as a guide in [Apple Maps](https://guides.apple.com/?ug=CgxBbGV4ICYgQ2hyaXMSDQiuTRC6%2Br6vt5jPt3cSDQiuTRCW0%2BihhNzD5xoSDgiuTRC%2B%2BsjQw6mesqgBEg4Irk0Q5K6XtumEoq%2BrARIOCK5NELndnr2Uwoy40QESDQiuTRD%2Bl%2Fnzivf1lTcSDgiuTRCUpPDnnLnDg5IBEg4Irk0Q882q2d225drbARIOCK5NEJjH6%2FD55LGXxAESDgiuTRCBpIH3%2Be2ho7EBEg4Irk0QwP3z75bfioW%2BARINCK5NEOOn%2BI%2Bb7pKjYxIMCK5NEMmxysees9sREg4Irk0QuOur%2BYG%2FwY7DARIOCK5NEN6K94GAtIH%2B%2BQE%3D).
+_Key locations and our personal recommendations for Halifax!_ Click on the map pins for details. Add this as a list in [Google Maps](https://maps.app.goo.gl/riA8Z72gBKDnbhJFA) or as a guide in [Apple Maps](https://guides.apple.com/?ug=CgxBbGV4ICYgQ2hyaXMSDQiuTRC6%2Br6vt5jPt3cSDQiuTRCW0%2BihhNzD5xoSDgiuTRC%2B%2BsjQw6mesqgBEg4Irk0Q5K6XtumEoq%2BrARIOCK5NELndnr2Uwoy40QESDQiuTRD%2Bl%2Fnzivf1lTcSDgiuTRCUpPDnnLnDg5IBEg4Irk0Q882q2d225drbARIOCK5NEJjH6%2FD55LGXxAESDgiuTRCBpIH3%2Be2ho7EBEg4Irk0QwP3z75bfioW%2BARINCK5NEOOn%2BI%2Bb7pKjYxIMCK5NEMmxysees9sREg4Irk0QuOur%2BYG%2FwY7DARIOCK5NEN6K94GAtIH%2B%2BQE%3D).
 
 ```{r map, layout="l-screen"}
 df <- read.csv("fav_places.csv")
