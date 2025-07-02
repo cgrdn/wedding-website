@@ -7,14 +7,17 @@ site: distill::distill_website
 
 Hi everyone - we just wanted to send a reminder/update email. In here you'll find:
 
+- A note about invites
 - A reminder to RSVP if you have not already
 - Information on accomodations
 - A more firm schedule of the day/weekend
 - Info on meal selection
 
-## Reminder to RSVP
+## Invites and RSVP Reminders
 
-If you haven't RSVPed yet please do! It is very helpful to us to have this information as early as possible. You can RSVP [here](rsvp.html).
+A note about our invites - we mailed them around the time of the postal strike and should have been a bit more vigilant about whether people received them or not. If you're getting this email, you are invited. We are missing some emails too, particularly of some spouses. Significant others in general were invited but if you have any uncertainty please feel free to reach out to us directly. 
+
+And on that note, if you haven't RSVPed yet please do! It is very helpful to us to have this information as early as possible. You can RSVP [here](rsvp.html).
 
 ## Accommodations
 
